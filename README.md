@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Likhitha310
+- 👀 I’m interested in ...Data Science,Machine Learning,Python,AWS,Devops,Cloud Computing,MySQL,Linux
+- 🌱 I’m currently learning ...Data Science,AWS,Jenkins,Devops
