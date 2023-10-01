@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Likhitha310
-- 👀 I’m interested in ...Data Science,Machine Learning,Python,AWS,Devops,Cloud Computing,MySQL,Linux
-- 🌱 I’m currently learning ...Data Science,AWS,Jenkins,Devops
+- 👀 I’m interested in ...Data Science,Machine Learning,Python,Cloud Computing
+- 🌱 I’m currently learning ...Data Science,Machine Learning,Artificial Intelligence,Deep Learning,AWS,Jenkins,Devops
+- Skills....Python,jupyter notebook,google colab,linux,ubuntu,Machine learning,Data Science
 
 ![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/1315bfe7-e634-44f7-b392-71cd9fcd54cb)![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/f9330a1a-7933-4950-a439-41d3616a1624)
 ![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/bd3b715f-47a6-4a12-b121-866d4b169d51)![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/e53b6470-d61b-4a70-912c-fb47a67565f6)
