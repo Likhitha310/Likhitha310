@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning ...Data Science,Machine Learning,Artificial Intelligence,Deep Learning
 - Tools....jupyter notebook,google colab,ubuntu,Microsoft Office,Mysql Server
  -Skills.....Python,SQL,Shell script,javascript
-![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/106502be-11be-43bf-9e93-0cd7b488802b)
-![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/12226e9f-4e4c-49bc-8ea6-776c700c42f0)![image](https://github.com/Likhitha310/Likhitha310/assets/133338541/034d3523-c54f-4211-a28d-019fb549f89f)
-
 - Certifications....TCS ION Career Edge - Young Professional by **TCS**, Academic Process Mining Fundamentals by **Celonis**, Data Science using Python by **Jazzlike Technologies**, Python 101 for Data Science by **Cognitive Classes**, Application based program on Adv Excel, Power Point and Word by **ExcelR**
 - Great Learning free online certification courses - Python, Digital Marketing, AI projects, Neural Networks and Deep Learning, Back Propogation, CNN, Visual essentials of AI, Machine Learning for Python
 
