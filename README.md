@@ -51,7 +51,7 @@
 
 Here are some of my notable projects:
 
-- 🚀 **[Crime Prediction](https://github.com/Likhitha310/crime-prediction)**  
+- 🚀 **[Crime Prediction](https://github.com/Likhitha310/Crime-Detection)**  
   _A machine learning project analyzing crime trends by location._  
   **Tech Stack**: Python, Pandas, Seaborn
 
