@@ -1,6 +1,6 @@
 # README.md for your GitHub Profile
 
-### Hi there, I'm [Likhitha A S]! 👋
+### Hi there, I'm Likhitha A S! 👋
 
 🎯 A passionate developer from India    
 
@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git">
 </p>
 
----
-
-### GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### About
 Config files for my GitHub profile.  
 Feel free to explore, star, and fork my repositories! 😊
@@ -53,4 +46,4 @@ Feel free to explore, star, and fork my repositories! 😊
 ---
 
 #### Footer
-Created with ❤️ by [Likhitha].
+Created with ❤️ by Likhitha.
