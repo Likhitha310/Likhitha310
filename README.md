@@ -1,49 +1,78 @@
-# README.md for your GitHub Profile
+# 👋 Hi, I'm **Likhitha A S**  
 
-### Hi there, I'm Likhitha A S! 👋
-
-🎯 A passionate developer from India    
-
-📫 How to reach me: likhithachowdary3105@gmail.com.com  
-
-⚡ Fun fact: I am a continuous learner and love exploring new technologies.  
+🎯 **Passionate Developer** | 🌍 From India  
+📫 **Reach me at**: [likhithachowdary3105@gmail.com](mailto:likhithachowdary3105@gmail.com)  
+⚡ **Fun fact**: I’m a curious mind, always learning and growing!  
 
 ---
 
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/likhitha-a-s-375081262/)
-- [GitHub](https://github.com/Likhitha310)
+### 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhitha-a-s-375081262/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=flat-square&logo=github)](https://github.com/Likhitha310)
 
 ---
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
-  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="SQL">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js">
-  <img src="https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code">
-  <img src="https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="WSL">
-  <img src="https://img.shields.io/badge/Scripting-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Shell Script">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" alt="Java">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML">
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" alt="CSS">
-  <img src="https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a" alt="Pandas">
-  <img src="https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a" alt="NumPy">
-  <img src="https://img.shields.io/badge/Library-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a" alt="Scikit Learn">
-  <img src="https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Tool-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Tkinter">
-  <img src="https://img.shields.io/badge/Tool-Google_Colab-informational?style=flat&logo=google-colab&logoColor=white&color=2bbc8a" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git">
+### 🎯 **About Me**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=24&center=true&lines=Developer+%7C+Explorer+%7C+Learner;Building+impactful+projects!;Passionate+about+AI%2C+ML%2C+and+Data+Science!" />
+</div>
+
+---
+
+### 🛠️ **Languages and Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,linux,vscode,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,matplotlib,tensorflow" alt="Data Science Tools" />
+</div>
+
+---
+
+### 📊 **My GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+### 🌟 **Featured Projects**
+Here are some cool projects I’ve worked on:  
+
+- 🚀 **[Crime Rate Prediction](https://github.com/Likhitha310/crime-rate-prediction)**  
+  _Machine learning project analyzing crime data by location._  
+  **Tech Stack**: Python, Pandas, Seaborn
+  
+---
+
+### 🎨 **Fun Animations**
+<div align="center">
+  <img src="https://github.com/Likhitha310/Likhitha310/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</div>
+
+---
+
+### ✨ **Skills Summary**
+- **Programming Languages**: Python, Java, JavaScript, Node.js  
+- **Web Development**: HTML, CSS  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools & Platforms**: VS Code, WSL, Git, Google Colab, Jupyter Notebook  
+
+---
+
+### ❤️ **Created with Love by Likhitha**
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge">
 </p>
 
-### About
-Config files for my GitHub profile.  
-Feel free to explore, star, and fork my repositories! 😊
-
 ---
 
+### 🌈 **How to Use This Template**
+1. Fork or copy this file.
+2. Add your personalized details.
+3. Showcase your skills and projects dynamically!  
 
-Created with ❤️ by Likhitha.
+---
