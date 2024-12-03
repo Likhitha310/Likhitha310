@@ -12,11 +12,19 @@
 
 ---
 
-### 🎯 **About Me**
+## ✨ **About Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=24&center=true&lines=Developer+%7C+Explorer+%7C+Learner;Building+impactful+projects!; Passionate+about+AI%2C+ML%2C+and+Data+Science!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6A5ACD&width=500&lines=Hi+there%2C+I'm+Likhitha+A+S!+👋;Passionate+Developer+from+India!;Always+learning+%26+exploring!;Let's+build+something+amazing!" alt="Typing Animation" />
 </div>
+
+---
+
+### 🌟 **Who am I?**
+- 🧑‍💻 A **passionate coder** who loves solving problems creatively.  
+- 🌍 Based in **India**, exploring global technologies.  
+- 🔭 Focused on **AI, Machine Learning, Web Development**, and **Data Science**.  
+- 💡 Continuously experimenting with tools, frameworks, and new ideas.
 
 ---
 
@@ -26,42 +34,40 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,linux,vscode,git" alt="Languages and Tools" />
   <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,matplotlib" />
 </div>
+
 ---
 
-### 📊 **My GitHub Stats**
+### 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
 </div>
+
 ---
 
 ### 🌟 **Featured Projects**
-Here are some cool projects I’ve worked on:  
 
-- 🚀 **[Crime Rate Prediction](https://github.com/Likhitha310/crime-rate-prediction)**  
-  _Machine learning project analyzing crime data by location._  
+Here are some of my notable projects:
+
+- 🚀 **[Crime Prediction](https://github.com/Likhitha310/crime-prediction)**  
+  _A machine learning project analyzing crime trends by location._  
   **Tech Stack**: Python, Pandas, Seaborn
-  
+
 ---
 
 ### 🎨 **Fun Animations**
+
 <div align="center">
   <img src="https://github.com/Likhitha310/Likhitha310/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </div>
 
 ---
 
-### ✨ **Skills Summary**
-- **Programming Languages**: Python, Java, JavaScript, Node.js  
-- **Web Development**: HTML, CSS  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools & Platforms**: VS Code, WSL, Git, Google Colab, Jupyter Notebook  
-
----
-
 ### ❤️ **Created with Love by Likhitha**
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge">
-</p>
+</p>  
+
