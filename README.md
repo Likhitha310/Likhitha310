@@ -15,7 +15,7 @@
 ### 🎯 **About Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=24&center=true&lines=Developer+%7C+Explorer+%7C+Learner;Building+impactful+projects!;Passionate+about+AI%2C+ML%2C+and+Data+Science!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=24&center=true&lines=Developer+%7C+Explorer+%7C+Learner;Building+impactful+projects!; Passionate+about+AI%2C+ML%2C+and+Data+Science!" />
 </div>
 
 ---
@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,linux,vscode,git" alt="Languages and Tools" />
   <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,matplotlib,tensorflow" alt="Data Science Tools" />
 </div>
-
 ---
 
 ### 📊 **My GitHub Stats**
@@ -36,7 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
 </div>
-
 ---
 
 ### 🌟 **Featured Projects**
