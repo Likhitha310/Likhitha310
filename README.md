@@ -57,14 +57,6 @@ Here are some of my notable projects:
 
 ---
 
-### 🎨 **Fun Animations**
-
-<div align="center">
-  <img src="https://github.com/Likhitha310/Likhitha310/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</div>
-
----
-
 ### ❤️ **Created with Love by Likhitha**
 
 <p align="center">
