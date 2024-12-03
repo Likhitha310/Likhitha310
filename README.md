@@ -4,7 +4,7 @@
 
 🎯 A passionate developer from India    
 
-📫 How to reach me: [likhithachowdary3105@gmail.com.com]  
+📫 How to reach me: likhithachowdary3105@gmail.com.com  
 
 ⚡ Fun fact: I am a continuous learner and love exploring new technologies.  
 
@@ -45,5 +45,5 @@ Feel free to explore, star, and fork my repositories! 😊
 
 ---
 
-#### Footer
+
 Created with ❤️ by Likhitha.
