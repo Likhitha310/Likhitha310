@@ -67,12 +67,3 @@ Here are some cool projects I’ve worked on:
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge">
 </p>
-
----
-
-### 🌈 **How to Use This Template**
-1. Fork or copy this file.
-2. Add your personalized details.
-3. Showcase your skills and projects dynamically!  
-
----
