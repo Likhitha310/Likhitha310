@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,linux,vscode,git" alt="Languages and Tools" />
-  <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,matplotlib,tensorflow" alt="Data Science Tools" />
+  <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,matplotlib" />
 </div>
 ---
 
