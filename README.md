@@ -45,18 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhitha310&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
- 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
----
-
- 🎥 Repository Journey
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8A2BE2&width=600&lines=From+Prototypes+to+Production...;AI-powered+Apps+%26+Dashboards...;Python+does+it+all!" alt="Animated Journey" />
 </div>
 
 ---
