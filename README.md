@@ -6,10 +6,10 @@
 
 ---
 
- 🌐 Connect with Me
+ 🌐 Connect with Me   
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhitha-a-s-375081262/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=flat-square&logo=github)](https://github.com/Likhitha310)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
 
 ---
 
