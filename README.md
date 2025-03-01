@@ -1,13 +1,13 @@
- 👋 Hi, I'm Likhitha A S
+👋 Hi, I'm Likhitha A S
 
-🎯 **Innovative Developer** | 🌍 From India  
-📫 **Reach me at**: [likhithachowdary3105@gmail.com](mailto:likhithachowdary3105@gmail.com)  
-⚡ **Fun fact**: I’m driven by curiosity and the excitement of creating impactful solutions!  
+🎯 Innovative Developer | 🌍 Based in India  
+📫 Reach Me At: [likhithachowdary3105@gmail.com](mailto:likhithachowdary3105@gmail.com)  
+⚡ Fun Fact: I’m driven by curiosity and the excitement of creating impactful solutions!  
 
 ---
 
- 🌐 Connect with Me   
- 
+ 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhitha-a-s-375081262/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=flat-square&logo=github)](https://github.com/Likhitha310)  
 
@@ -22,6 +22,7 @@
 ---
 
  🌟 Who am I?
+
 - 🧑‍💻 A creative thinker and coder, passionate about solving complex problems.  
 - 🌍 Based in India, connected to the global tech community.  
 - 🔭 Currently exploring AI, Web Development, Cloud Computing, and Data Science.  
@@ -33,7 +34,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mysql,linux,git,github,vscode" alt="Languages and Tools" />
-  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy,matplotlib,seaborn,tableau" />
+  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy,matplotlib,seaborn,tableau" alt="Python Tools" />
 </div>
 
 ---
@@ -44,23 +45,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&width=500&lines=💻+Most+Used+Language:+Python;✨+Python+is+my+go-to+for+ML+%26+Web+Apps" alt="Most Used Language: Python" />
 </div>
 
----
-
  💻 Most Used Language  
-Python is the heart of my projects:  
+Python is at the core of my projects:  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhitha310&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
+ 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&hide=issues&theme=radical&count_private=true" alt="GitHub Stats Analysis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
- 🔍 Why Python?  
+ 🔍 Why Python?
+
 Let’s see why Python is my favorite:  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Likhitha310&theme=radical" alt="Python Usage Animation" />
@@ -70,20 +70,10 @@ Let’s see why Python is my favorite:
 
 ---
 
- 🎥 Animated Repository Journey
+ 🎥 Repository Journey
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8A2BE2&width=600&lines=From+Prototypes+to+Production...;AI-powered+Apps+%26+Dashboards...;Python+does+it+all!" alt="Animated Journey" />
-</div>
-
----
-
- 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
 </div>
 
 ---
@@ -92,16 +82,16 @@ Let’s see why Python is my favorite:
 
 Here are some of my notable projects:
 
-- 🔍 [Crime Rate Prediction](https://github.com/Likhitha310/Crime-Detection)  
+- 🔍 **[Crime Rate Prediction](https://github.com/Likhitha310/Crime-Detection)**  
   _An AI-powered solution to predict and analyze crime trends by location._  
-  Tech Stack: Python, Pandas, Matplotlib, Seaborn  
+  **Tech Stack**: Python, Pandas, Matplotlib, Seaborn  
 
 ---
 
- ❤️ **Created with Love by Likhitha**
+ ❤️ Created with Love by Likhitha
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge">
-</p>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge" />
+</div>
 
----
+--- 
