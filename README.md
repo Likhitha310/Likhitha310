@@ -42,12 +42,6 @@
  🧠 Fun Insight into My Repositories
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&width=500&lines=💻+Most+Used+Language:+Python;✨+Python+is+my+go-to+for+ML+%26+Web+Apps" alt="Most Used Language: Python" />
-</div>
-
- 💻 Most Used Language  
-Python is at the core of my projects:  
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhitha310&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -56,17 +50,6 @@ Python is at the core of my projects:
   <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
----
-
- 🔍 Why Python?
-
-Let’s see why Python is my favorite:  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Likhitha310&theme=radical" alt="Python Usage Animation" />
-</div>
-
-> “Python's versatility empowers me to turn complex ideas into actionable solutions, effortlessly!”
 
 ---
 
