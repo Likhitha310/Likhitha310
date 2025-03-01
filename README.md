@@ -32,8 +32,8 @@
  🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mysql,mongodb,linux,git,github,vscode" alt="Languages and Tools" />
-  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy,matplotlib,seaborn,figma,heroku,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mysql,linux,git,github,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy,matplotlib,seaborn,tableau" />
 </div>
 
 ---
